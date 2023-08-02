@@ -1,0 +1,11 @@
+2 main components
+1) editor
+-navbar 
+        - fontawesome expander (logic that will hide other elements, maybe i can use redux store for this)
+- body 
+- infinite-scroll 
+2) previewer
+-navbar 
+        - fontawesome expander (logic that will hide other elements, maybe i can use redux store for this)
+- body 
+- infinite-scroll 
