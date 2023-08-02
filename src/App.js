@@ -15,7 +15,7 @@ Check them out if you have not gotten the chance to yet!
 
 ![Jenny the Teenage Robot](https://pm1.aminoapps.com/6946/d188759063205897a7b88fc14985a13ad4261c4dr1-1332-1000v2_uhq.jpg)
  
- **This is Jenny the Teenage Robot. Aside from being a kick-butt superhero, I chose her due to haivng a similar color palette. A true win-win** 
+ **This is Jenny the Teenage Robot. Aside from being a kick-butt superhero, I chose her due to having a similar color palette. A true win-win** 
  > Jenny is a state-of-the-art robotic protector of Earth, armed with advanced weaponry and devices at her disposal, but wishes to live the life of a normal teenager. 
  >
  \`const learnReact = () => newReactDev\`
@@ -24,7 +24,7 @@ Check them out if you have not gotten the chance to yet!
   character1: Jenny Wakeman,
   character2: Dr. Nora Wakeman,
   character3: Bradley Carbunkle
- }
+ } 
  \`\`\`
 
 
