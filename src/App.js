@@ -46,12 +46,12 @@ function App() {
 
   const [expandEddy, setExpandEddy] = useState(false);
   const handleSizeE = () => {
-    setExpandEddy(!expandEddy);
+    setExpandEddy( current => !current);
   };
 
   const [expandPreevy, setExpandPreevy] = useState(false);
   const handleSizeP = () => {
-    setExpandPreevy(!expandPreevy);
+    setExpandPreevy(current => !current);
   };
 
   return (
